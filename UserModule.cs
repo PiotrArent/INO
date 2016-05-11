@@ -1,7 +1,7 @@
 
 public class UserModule
 {
-    public class User
+    private class User
     {
         public string accountname { get; set; }
         public string fname { get; set; }
